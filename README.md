@@ -8,7 +8,7 @@ Display a 5 day weather forecast in PyroCMS. Powered by Yahoo! Weather.
 
 Please Note: You'll need to add your own CSS styles. Also, if you can't tell from its name, this widget currently only works in the United States.
 
-Step 1: Extract contents of this zip to a new folder:
+Step 1: Extract contents of this zip (or clone) to a new folder:
 
 	addons/<site-ref>/widgets/us_weather_forecast
 
